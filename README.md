@@ -7,7 +7,7 @@ Welcome to the **Product API** repository! This is a RESTful API built with Node
 ## 📋 **Features**
 
 - 📦 **Add Products**: Easily add new products to your inventory.
-- 🔄 **Update Products**: Modify existing product details (name, price, stock, etc.).
+- 🔄 **Update Products**: Modify existing product details (name, price, category, stock, rating etc.).
 - ❌ **Delete Products**: Remove products from your system.
 - 🔍 **Fetch Products**: Retrieve a list of products or details of a specific one.
 - 🛠️ **Swagger Documentation**: Comprehensive API documentation using Swagger UI.
@@ -31,7 +31,7 @@ Welcome to the **Product API** repository! This is a RESTful API built with Node
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/product-api.git
+    git clone https://github.com/ajaykumar2pp/REST-Product-API.git
     ```
 
 2. **Navigate to the project directory**:
